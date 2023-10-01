@@ -1,0 +1,70 @@
+{
+    "bar1":[
+        {
+            "id":1,
+            "icon":"fa-solid fa-house",
+            "name":"Home",
+            "route":"/home"
+        },
+        {
+            "id":2,
+            "icon":"fa-brands fa-playstation",
+            "name":"Shorts",
+            "route":"/shorts"
+        },
+        {
+            "id":3,
+            "icon":"fa-brands fa-youtube",
+            "name":"Subscription"
+        }
+    ]
+    ,
+    "bar2":[
+        {
+            "id":4,
+            "name":"Library",
+            "icon":"fa-solid fa-book"
+        }
+        ,
+        {
+            "id":5,
+            "name":"History",
+            "icon":"fa-solid fa-clock-rotate-left"
+        }
+        , {
+            "id":6,
+            "name":"Your Videos",
+            "icon":"fa-solid fa-play"
+        }
+        , {
+            "id":7,
+            "name":"Watch Later",
+            "icon":"fa-regular fa-clock"
+        }
+        , {
+            "id":8,
+            "name":"Your Clips",
+            "icon":"fa-solid fa-scissors"
+        }
+    ]
+    ,
+    "bar3":[
+        {
+            "id":9,
+            "name":"Settings",
+            "icon":"fa-solid fa-gear"
+        }
+        ,
+        {
+            "id":10,
+            "name":"Help",
+            "icon":"fa-solid fa-question"
+        }
+        ,
+        {
+            "id":11,
+            "name":"Report History",
+            "icon":"fa-solid fa-flag"
+        }
+    ]
+}
